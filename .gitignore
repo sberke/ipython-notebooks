@@ -1,0 +1,4 @@
+#ignore images crated by plantuml
+*.svg
+*.png
+*.plt
